@@ -1,0 +1,10 @@
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\bin\Debug\App.DataModels.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\bin\Debug\App.DataModels.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\obj\Debug\App.DataModels.csprojResolveAssemblyReference.cache
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\obj\Debug\App.DataModels.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\obj\Debug\App.DataModels.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\bin\Debug\App.DataModels.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\bin\Debug\App.DataModels.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\obj\Debug\App.DataModels.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\obj\Debug\App.DataModels.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.DataModels\obj\Debug\App.DataModels.pdb
