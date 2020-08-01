@@ -1,0 +1,60 @@
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Interface.exe.config
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Interface.exe
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Interface.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.Properties.Resources.resources
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.csproj.GenerateResource.Cache
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.exe
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.Login.resources
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.ProiectBD.resources
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Controller.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.DataModels.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\Npgsql.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Buffers.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Memory.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.ValueTuple.dll
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Controller.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.DataModels.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\Npgsql.pdb
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\Npgsql.xml
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Buffers.xml
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Memory.xml
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gabi Socea\Desktop\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.ValueTuple.xml
+D:\Pentru Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Interface.exe.config
+D:\Pentru Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.exe
+D:\Pentru Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Interface.exe.config
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.exe
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Interface.exe
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Interface.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Controller.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.DataModels.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\Npgsql.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Buffers.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Memory.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.ValueTuple.dll
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.Controller.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\App.DataModels.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\Npgsql.pdb
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\Npgsql.xml
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Buffers.xml
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Memory.xml
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\bin\Debug\System.ValueTuple.xml
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.csprojResolveAssemblyReference.cache
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.Login.resources
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.ProiectBD.resources
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.Properties.Resources.resources
+D:\Facultate\Anul 3\Semestrul 2\Baze de Date\Proiect\Proiect Baze de Date\App\App.Interface\obj\Debug\App.Interface.csproj.GenerateResource.Cache
+D:\Proiecte Facultate\Baze de Date\App\App.Interface\bin\Debug\App.Interface.exe.config
+D:\Proiecte Facultate\Baze de Date\App\App.Interface\obj\Debug\App.Interface.exe
+D:\Proiecte Facultate\Baze de Date\App\App.Interface\obj\Debug\App.Interface.pdb
